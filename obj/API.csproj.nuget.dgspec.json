@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\exercice\\Eval2\\API\\API\\API.csproj": {}
+    "D:\\Projet\\APICourse\\API.csproj": {}
   },
   "projects": {
-    "D:\\exercice\\Eval2\\API\\API\\API.csproj": {
+    "D:\\Projet\\APICourse\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\exercice\\Eval2\\API\\API\\API.csproj",
+        "projectUniqueName": "D:\\Projet\\APICourse\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\exercice\\Eval2\\API\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\mamiherimanitra.rako\\.nuget\\packages\\",
-        "outputPath": "D:\\exercice\\Eval2\\API\\API\\obj\\",
+        "projectPath": "D:\\Projet\\APICourse\\API.csproj",
+        "packagesPath": "D:\\Utilisateurs\\mamiherimanitra.rako\\.nuget\\packages\\",
+        "outputPath": "D:\\Projet\\APICourse\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mamiherimanitra.rako\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "D:\\Utilisateurs\\mamiherimanitra.rako\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,7 +106,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
